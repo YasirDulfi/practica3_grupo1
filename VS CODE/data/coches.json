@@ -1,0 +1,18 @@
+{
+  "cars": [
+    {
+      "modelo": "mercedes class s",
+      "peso": 1200,
+      "cargaCombustible": 50.0,
+      "km": 0,
+      "autonomia": 833.3333333333334
+    },
+    {
+      "modelo": "bmw serie 3",
+      "peso": 1000,
+      "cargaCombustible": 0,
+      "km": 0,
+      "autonomia": 0
+    }
+  ]
+}

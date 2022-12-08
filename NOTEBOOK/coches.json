@@ -1,0 +1,1 @@
+{"cars": [{"modelo": "mercedes class s", "peso": 1200, "cargaCombustible": 50.0, "km": 10.0, "autonomia": 823.3333333333334}, {"modelo": "bmw serie 3", "peso": 1000, "cargaCombustible": 0, "km": 0, "autonomia": 0}, {"modelo": "audi a3", "peso": 1500.0, "cargaCombustible": 60.0, "km": 0, "autonomia": 990.0}]}
